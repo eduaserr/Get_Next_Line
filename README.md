@@ -1,4 +1,7 @@
-<h1 align="center"> ~GET_NEXT_LINE~ <br><img alt="success 125/100" src="https://img.shields.io/badge/125%2F100-green?style=plastic&logoColor=green&label=success"></h1>
+<div>
+	<img align="right" alt="printfBonus" src="https://github.com/eduaserr/42-project-badges/blob/a48e677fd4871e6999a9564101dca26091ec18ef/badges/get_next_linem.png" width="75px">
+	<h1 align="center"> ~GET_NEXT_LINE~ <br><img alt="success 125/100" src="https://img.shields.io/badge/125%2F100-green?style=plastic&logoColor=green&label=success"></h1>
+</div>
 <p align="justify">This proyect is about a function that returns a <code>line</code> read from a <b>file descriptor (fd)</b>. Everytime we give a call, the function return a new line, until we reach the end of the text. Every string is null terminated.<br>
 As soon that we don't have more text inside the fd, our function will return <i>('NULL')</i> , and the program ends.</p>
 <br>

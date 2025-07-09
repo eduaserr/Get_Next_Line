@@ -27,3 +27,6 @@ As soon that we don't have more text inside the fd, our function will return <i>
 <br>
 <h3>- Static variables</h3>
 <p align="justify"><b>Static variables</b> are really important, they have the property of preserving their value even after they are out of their scope, preserves its previous value in its previous scope and is not initialized again.<br>A static int variable remains in memory while the program is running.</p>
+
+---
+*Proyecto desarrollado como parte del curriculum de 42.*
